@@ -1,0 +1,17 @@
+[
+  {
+    "text": "Installing vscode",
+    "executable": "vscode",
+    "path": "/path/to/vscode"
+  },
+  {
+    "text": "Installing spotify",
+    "executable": "spotify",
+    "path": "/path/to/spotify"
+  },
+  {
+    "text": "Installing git",
+    "executable": "git",
+    "path": "/path/to/git"
+  }
+]
